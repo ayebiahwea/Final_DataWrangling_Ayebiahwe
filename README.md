@@ -22,6 +22,4 @@ expired for a period exceeding ninety (90) days.
 
 The primary data source for this project is from OpenDataPhilly. The 311 Service and Information requests data represents all service and information requests since December 8th, 2014 submitted to Philly311 via the 311 mobile application, calls, walk-ins, emails, the 311 website or social media. [311 Service and information Requests](https://www.opendataphilly.org/dataset/311-service-and-information requests)
 
-Moreover, I used the crime data set from Open Philly to get the reported prostitution incidents.Crime incidents from the Philadelphia Police Department. Part I crimes include violent offenses such as aggravated assault, rape, arson, among others. Part II crimes include simple assault, prostitution, gambling, fraud, and other non-violent offenses. [Crime_Incidents](https://www.opendataphilly.org/dataset/crime-incidents).This dataset previously had separate endpoints for various years and types of incidents. These have since been consolidated into a single dataset.
-
-Finally, I will used neighborhood data by Zillow to spatially join the requests to the neighborhoods to visualize the number of vehicle abandonment in the neighborhoods of Philadelphia and the number of prostitution incidents in Philadelphia.
+Finally, I will used neighborhood data by Zillow to spatially join the requests to the neighborhoods to visualize the number of vehicle abandonment in the neighborhoods of Philadelphia.
